@@ -1,2 +1,2 @@
 # Lab 2 - Starter
-My published site: https://markcmd.github.io/CSE110_Lab2_Starter/
+My published site: https://github.com/Markcmd/sp24-cse110-lab3.git
