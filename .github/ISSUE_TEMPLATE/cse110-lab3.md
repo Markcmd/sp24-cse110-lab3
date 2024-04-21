@@ -9,7 +9,8 @@ assignees: Markcmd
 
 Adding CSS to Meeting Minutes
 
-Details:
-[  ] 
-[  ] 
-[  ]
+### Steps
+- [x] Search for sample templates only
+- [x] Choose the most suitable templates for our team
+- [x] Make some modifications to the templates
+
